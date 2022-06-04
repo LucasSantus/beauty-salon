@@ -8,9 +8,7 @@
 
 <h3 id="sobre">:information_source: Sobre</h3>
 
-> Este projeto foi desenvolvido utilizando o HTML5, CSS3 e JavaScript.
-
-> Este projeto foi desenvolvido acompanhando o NLW Together Origin.
+> Este projeto foi desenvolvido acompanhando o NLW Together Origin, foram utilizadas as tecnologias HTML5, CSS3 e JavaScript.
 
 A ideia é:
 
