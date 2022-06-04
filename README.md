@@ -8,11 +8,13 @@
 
 <h3 id="sobre">:information_source: Sobre</h3>
 
-> Este projeto foi desenvolvido utilizando o Bootstrap como framework Front-End.
+> Este projeto foi desenvolvido utilizando o HTML5, CSS3 e JavaScript.
+
+> Este projeto foi desenvolvido acompanhando o NLW Together Origin.
 
 A ideia é:
 
-_"Criar uma Galeria de Imagens onde o mesmo tenha um design simples e belo, com intuito de promover o aprendizado utilizando o Bootstrap framework."_
+_"Criar uma Landing Page relacionado a um salão especializado em tratamentos naturais onde o mesmo tenha um design simples e belo."_
 
 --------------------------------------------------------------------------------------
 
@@ -22,7 +24,6 @@ _"Criar uma Galeria de Imagens onde o mesmo tenha um design simples e belo, com 
 * [Tabela de Conteudo](#tabela-de-conteudo)
 * [Status do Projeto](#status)
 * [Por Que](#por-que)
-* [Funcionalidades](#funcionalidades)
 * [Autor](#autor)
 * [Licença](#license)
 
@@ -77,4 +78,4 @@ Obrigado por visitar e boa codificação!<br />
 
 <h3 id="license">:memo: License</h3>
 
-Este projeto está licenciado sob a Licença MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/spotify/blob/master/LICENSE) para melhores detalhes.
+Este projeto está licenciado sob a Licença MIT License - veja o [LICENSE.md](https://github.com/LucasSantus/beauty-salon/blob/master/LICENSE) para melhores detalhes.
