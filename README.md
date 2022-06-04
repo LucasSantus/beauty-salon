@@ -45,14 +45,6 @@ Este é um projeto totalmente grátis!
 
 --------------------------------------------------------------------------------------
 
-<h3 id="tecnologias">:rocket: Tecnologias</h3>
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Bootstrap](https://getbootstrap.com/)
-
---------------------------------------------------------------------------------------
-
 <h3 id="autor">:bust_in_silhouette: Autor</h3>
 
 <table>
